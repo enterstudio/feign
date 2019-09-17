@@ -42,7 +42,7 @@
     <junit.version>4.12</junit.version>
     <!-- last version supporting JDK 7 -->
     <assertj.version>1.7.1</assertj.version>
-    <jackson.version>2.6.4</jackson.version>
+    <jackson.version>2.10.0.pr2</jackson.version>
 
     <animal-sniffer-maven-plugin.version>1.15</animal-sniffer-maven-plugin.version>
     <maven-plugin.version>0.3.3</maven-plugin.version>
