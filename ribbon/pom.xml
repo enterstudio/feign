@@ -13,7 +13,7 @@
 
   <properties>
     <main.basedir>${project.basedir}/..</main.basedir>
-    <ribbon-version>2.1.1</ribbon-version>
+    <ribbon-version>2.4.0</ribbon-version>
   </properties>
 
   <dependencies>
